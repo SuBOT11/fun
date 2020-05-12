@@ -109,7 +109,7 @@ button{
   height: 60px;
   width: 160px;
   text-transform: uppercase;
-  font-weight: bolder;
+  font-weight: 900;
   font-size:20px;
   background: rgba(226, 10, 54, 0.733);
   border-radius: 5px;
